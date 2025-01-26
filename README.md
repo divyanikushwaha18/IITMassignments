@@ -11,3 +11,4 @@
 [1]: https://markdown-here.com/img/icon256.png
 > This is a blockquote.
 > ---
+> Use `print()` to display text.
